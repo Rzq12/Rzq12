@@ -9,7 +9,7 @@ Hey there! I'm Ekky, a statistics student at Airlangga University, with a keen i
 ### Machine Learning
   ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
   ![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
-## Workspace Setup
+## 🖥️Workspace Setup
   ![i5-11th-gen](https://img.shields.io/badge/Intel-Core_i5_11th-0071C5?style=for-the-badge&logo=intel&logoColor=white)
   ![rtx-3050](https://img.shields.io/badge/NVIDIA-RTX_3050-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
   ![windows](https://img.shields.io/badge/Windows_11-0078D6?style=for-the-badge&logo=windows&logoColor=white)
