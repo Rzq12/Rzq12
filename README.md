@@ -16,6 +16,8 @@ Hey there! I'm Ekky, a statistics student at Airlangga University, with a keen i
   ![vs-code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white)
   ![jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=Jupyter&logoColor=white)
   ![google-colab](https://img.shields.io/badge/google_colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
+
+  
 <!--
 **Rzq12/Rzq12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
