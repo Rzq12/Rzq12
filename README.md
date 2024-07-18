@@ -1,4 +1,4 @@
-# Hi there 👋
+# Hi there 👋 
 ## ABOUT ME
 Hey there! I'm Ekky, a statistics student at Airlangga University, with a keen interest in machine learning. While still in my academic journey, I've tackled challenging statistical problems and applied machine learning techniques to real-world datasets. I'm excited to continue learning and contributing to the field. My expertise lies in statistical analysis, data visualization, and machine learning algorithms. I'm particularly interested in predictive modeling, classification, and regression techniques.
 ## 🛠️SKILLS
